@@ -1,0 +1,36 @@
+#HTML
+
+<html>=root element of an html
+<head>=meta data about html
+<title>=browswe title bar
+<body>=heading,paragraphs,images,hyperlinks,tables,list
+<h1>=large heading
+<p>=paragraph
+<tagname></tagname>
+<!DOCTYPE html>=document type,helps browsers to display
+
+#Heading (<h1> to <h6>)
+
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+  .   .
+  .   .
+<h6></h6>
+
+#paragraphs 
+
+<p>  </p>
+
+#links
+
+<a href="link"></a>
+
+href= atributes are used to provide additional information about html
+
+#images <img>
+
+<img src="source.jpg" alt="some link" width="500" height="300">
+
