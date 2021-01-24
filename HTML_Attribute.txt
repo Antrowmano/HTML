@@ -1,0 +1,51 @@
+#HTML Attributes
+
+#Href attribute
+
+<a></a> = hyperlink tag
+
+href = attribute specifies the URL of the page the link 
+
+#src Attribute
+
+<img> = this tag is used to image in HTML
+src = attribute specifies the path to image 
+
+<img src="img.jpg">
+
+#width and height  Attributes
+
+<img src="img.jpg" width="500" height="600">
+
+#alt Attribute
+
+alt = altrnate text for an images
+
+<img src="img.jpg" alt="girl with a jacket">
+
+#style attribute
+
+style = add styles to an element such as color,font,size
+ 
+<p style="color:red;">this is a my name</p>
+
+
+#Lang Attribute
+
+lang = attribute inside the <html>tag,declare the language 
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+...
+</body>
+</html>
+
+#title attribute
+
+title = extra information about an elemant
+
+<p title="I am a tooltip">this my life story</p>
+
+
+
